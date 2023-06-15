@@ -30,3 +30,6 @@ Vishwas Bhaktavatsala <br />
 Kristopher Chou <br />
 Yeh-Min Lu <br />
 
+
+[Southwest DC City CouncilReport.pdf](https://github.com/harshithatk33/ds-dc-councilor-allen-southwest/files/11759745/Southwest.DC.City.CouncilReport.pdf)
+
