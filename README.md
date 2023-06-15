@@ -1,9 +1,32 @@
-# CS506-TEMPLATE-base-repo
+## DC City Council - Team 1
 
-If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
+# Phase 1 :
 
-Create a new branch from your team branch (ex. branch name: <code>sp23-team-1</code>, <code>sp23-team-2</code>,...etc.), add changes to your team folder (on the new branch you just created).
+Executables are written in python, can be executed in jupyter notebook and Vscode.
+Visualations in this phase are mainly in line with various paramters of Southwest like Demographics,Public safety, Crime, Economic Vitality, Housing.
+All the visualizations were plotted in python and can be viewed through Voila Dashboard.
 
-Open a Pull Request to your team branch (ex. branch name: <code>sp23-team-1</code>). Add your PM and TE as reviewers.  ***Do not delete any team folders.***
+Instructions to install voila dashboard :
+1. pip3 install voila 
+2. restart/start the jupyter notebook : jupyter notebook
+3. Extension "voila" will be added as a small icon.
+4. Click on voila - It executes all cells and produces only the plots and explaination on the screen.
 
-At the end of the semester during project wrap up open a final Pull Request to <code>dev</code> from your team branch. 
+
+
+# Phase 2 :
+
+Our Prime Focus was Crime and Economic Vitality in South West DC in an attempt to find correlations as to why there could potentially be problems in the area and possible areas to concentrate.
+
+Executables are written in python, can be executed in jupyter notebook and Vscode.
+Visualations in this phase are mainly geoplots of complete Washington DC and just Ward 6 to correlate Crime data with other parameters.
+All the visualizations were plotted in python and can be viewed through Voila Dashboard.
+
+Our Final Report could be viewed at this Link : https://drive.google.com/drive/folders/1H_2jLYTJs7Ai2GdeSR8DV_WJCycACq4L
+
+# Team 1 members: 
+Harshitha Tumkur Kailasa Murthy <br />
+Vishwas Bhaktavatsala <br />
+Kristopher Chou <br />
+Yeh-Min Lu <br />
+
